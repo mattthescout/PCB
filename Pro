@@ -1,1 +1,1 @@
-PCB Project repoaitory
+PCB Project repository
