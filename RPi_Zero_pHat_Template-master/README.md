@@ -1,3 +1,3 @@
 # Raspberry Pi Zero battery backup Hat
 
-<img src="meta/RPi_Zero_pHat-brd.png" style="width:100%">
+<img src="RPi_Zero_pHat_Template.png" style="width:100%">
